@@ -4,7 +4,7 @@ import time
 import pandas as pd
 import altair as alt
 import numpy as np  
-from streamlit_option_menu import option_menu
+
 
 # Set up page configuration
 st.set_page_config(page_title="UNIVERSITY SCADA DASHBOARD", page_icon=":bar_chart:")
